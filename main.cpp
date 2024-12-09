@@ -23,5 +23,7 @@ int main()
     cout << Newp << endl;
     delete[] p;
 
+    cout << "-------guli" << endl;
+
     return 0;
 }
