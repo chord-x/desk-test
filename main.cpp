@@ -18,9 +18,9 @@ int main()
     for (int i = 0; i < 8; i++) {
         cout << Newp[i] << endl;
     }
-    cout <<p<<endl;
+    cout <<p<<endl;//下面改了
     Newp = p;
-    cout << Newp << endl;
+    
     delete[] p;
 
     cout << "-------guli" << endl;
